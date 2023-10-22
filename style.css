@@ -1,0 +1,165 @@
+*{
+    padding: o;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* .container{
+
+} */
+.nave{
+    display: flex;
+    box-shadow:cornsilk;
+    text-align: center;
+    height: 40px;
+    box-shadow: 0 3px 3px -2px rgba(0,0,0,.2);
+    letter-spacing: 3px;
+}
+.pgh{
+    display: flex;
+    margin-left: 870px;
+}
+.p{
+    display: flex;
+padding-top: 10px;
+padding-left: 25px;
+}
+.img{
+    margin-left: 140px;
+}
+.project{
+    margin-left: 140px;
+    padding-bottom: 10px;
+}
+.img1{
+    width: 10px;
+    margin-left: 140px;
+    display:flex;
+}
+#forgap{
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+#forgape{
+    padding-bottom: 20px;
+}
+#paragraph{
+    margin-left: 140px;
+   font-weight:lighter;
+   font-size: smaller;
+   letter-spacing: 1px;
+}
+.authors{
+    display: flex;
+}
+.a1{
+    padding-left: 140px;
+}
+.a2{
+    padding-left: 16px;
+}
+.a3{
+    padding-left: 23px;
+}
+.a4{
+    padding-left: 20px;
+}
+.button{
+    width: 240px;
+    height: 25px;
+    border: none;
+}
+.cwa{
+    margin-top: 10px;
+    margin-left: 140px;
+}
+.blanks{
+    display:inline-block;
+    margin-left: 140px;
+}
+input{
+    width: 1050px;
+    height: 30px;
+    margin-top: 10px;
+}
+.btn{
+    color: white;
+    background-color: black;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    height: 30px;
+}
+.lastimg{
+    width: 1050px;
+}
+footer{
+    color: white;
+    background-color: black;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+hr{
+margin-left: 140px;
+width: 1050px; 
+height: 0.03px;  
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+  font-size: 150%;
+  }
+  /* .brs{
+    color: white;
+    background-color:black;
+  } */
+  .spn{
+    background-color:black;
+    width: 50px;
+    height:40px ;
+    color: white;
+    display: inline-block;
+    text-align:center;
+    padding-top: 8px;
+  }
+   .fimg {
+    position: absolute;
+    left: 140px;
+    background-color: black;
+    color: white;
+    height: 30px;
+  } 
+  .simg{
+    position: absolute;
+    background-color: black;
+    color: white;
+    height: 30px;
+    margin-left: 280px;
+  }
+  .timg{
+    position: absolute;
+    background-color: black;
+    color: white;
+    height: 30px;
+    margin-left: 540px;
+  }
+  .ftimg{
+    position: absolute;
+    background-color: black;
+    color: white;
+    height: 30px;
+    margin-left: 800px;
+  }
+  h6{
+    padding-top:20px;
+    padding-bottom: 15px;
+    color: rgb(133, 126, 126);
+  }
+  h4{
+    padding-top: 20px;
+    font-weight: lighter;
+  }
